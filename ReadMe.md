@@ -8,7 +8,7 @@ Hello, I'm Krish.<br><br>I'm a university student currently pursuing my Bachelor
 [![Discord Presence](https://lanyard.cnrad.dev/api/1022085572719808542)](https://discord.com/users/1022085572719808542)
 
 
-# Programming History
+# 📃 Programming History
 <figure><embed src="https://wakatime.com/share/@9cc74664-2204-4d7b-90e2-5ea7f9156dda/75f8ca16-1fe7-4e2e-87d8-843917923054.svg"></embed></figure>
 
 
