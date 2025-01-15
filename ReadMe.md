@@ -9,8 +9,17 @@ Hello, I'm Krish.<br><br>I'm a university student currently pursuing my Bachelor
 
 
 # 📃 Programming History
+
+<a href="https://wakatime.com">
+  <img width="40%" height="300%" align="middle" src="https://wakatime.com/share/@Jiggly_Balls/973a48e9-11f4-4424-90fa-ca0a2d733943.png" />
+</a>
+
 <a href="https://wakatime.com/@Jiggly_Balls" target="_blank">
-	<img width="50%" align="middle" alt="All Time" src="https://github-readme-stats.vercel.app/api/wakatime?username=Jiggly_Balls&border_radius=5px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&disable_animations=true&custom_title=Jiggly%20Balls%20History">
+  <img width="40%" align="middle" alt="All Time" src="https://github-readme-stats.vercel.app/api/wakatime?username=Jiggly_Balls&border_radius=5px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&disable_animations=true&custom_title=Jiggly%20Balls%20History">
+</a>
+
+<a href="https://wakatime.com">
+  <img width="40%" align="middle" src="https://wakatime.com/share/@Jiggly_Balls/4a21c1ef-bbc1-40e8-b4ea-f4663fc8955c.png" />
 </a>
 
 <br>
