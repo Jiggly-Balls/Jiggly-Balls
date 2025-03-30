@@ -13,11 +13,19 @@ Hello, I'm Krish.<br><br>I'm a university student currently pursuing my Bachelor
 
 
 # Highlight Projects
-<img src="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=200,fit=crop,q=95/YKbE3OGN6jf1noQQ/screen-shot-2025-02-15-at-04.08.01-AoPqpX1RrWs0KnKb.png" width="100" height="50">
+<img
+    src="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=200,fit=crop,q=95/YKbE3OGN6jf1noQQ/screen-shot-2025-02-15-at-04.08.01-AoPqpX1RrWs0KnKb.png" 
+    width="110"
+    height="50"
+/>
 
 [Ceebs](https://disutils.com/staff) - Previous Lead Developer
 
-<img src="https://disutils.com/img/Distools-Transparent.png" width="50" height="50">
+<img
+    src="https://disutils.com/img/Distools-Transparent.png"
+    width="50"
+    height="50"
+/>
 
 [Disutils Team](https://disutils.com/staff) - Lead Developer
 
