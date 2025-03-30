@@ -7,9 +7,19 @@ Hello, I'm Krish.<br><br>I'm a university student currently pursuing my Bachelor
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&sort=semver&style=for-the-badge)](https://instagram.com/krishpy_chips)
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white&sort=semver&style=for-the-badge)](https://reddit.com/user/Jiggly-Balls)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white&sort=semver&style=for-the-badge)](https://stackoverflow.com/users/22124711)
- 
+
 ### Discord Profile
 [![Discord Presence](https://lanyard.cnrad.dev/api/1022085572719808542)](https://discord.com/users/1022085572719808542)
+
+
+# Highlight Projects
+<img src="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=200,fit=crop,q=95/YKbE3OGN6jf1noQQ/screen-shot-2025-02-15-at-04.08.01-AoPqpX1RrWs0KnKb.png" width="100" height="50">
+
+[Ceebs](https://disutils.com/staff) - Previous Lead Developer
+
+<img src="https://disutils.com/img/Distools-Transparent.png" width="50" height="50">
+
+[Disutils Team](https://disutils.com/staff) - Lead Developer
 
 
 # 📃 Programming History
