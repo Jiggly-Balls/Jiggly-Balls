@@ -19,7 +19,7 @@ Hello, I'm Krish.<br><br>I'm a university student currently pursuing my Bachelor
     height="50"
 />
 
-[Ceebs](https://disutils.com/staff) - Previous Lead Developer
+[Ceebs](https://www.ceebs.site/credits) - Previous Lead Developer
 
 <img
     src="https://disutils.com/img/Distools-Transparent.png"
