@@ -22,7 +22,7 @@ Hello, I'm Krish.<br><br>I'm a university student currently pursuing my Bachelor
 [Ceebs](https://www.ceebs.site/credits) - Previous Lead Developer
 
 <img
-    src="https://disutils.com/img/Distools-Transparent.png"
+    src="https://disutils.com/img/main/favicon.png"
     width="50"
     height="50"
 />
