@@ -19,15 +19,15 @@ Hello, I'm Krish.<br><br>I'm a university student currently pursuing my Bachelor
     height="50"
 />
 
-[Ceebs](https://www.ceebs.site/credits) - Previous Lead Developer
+[Ceebs](https://www.ceebs.site/credits) - Previous Lead App Developer
 
 <img
-    src="https://disutils.com/img/main/favicon.png"
+    src="https://images.disutils.com/bot_assets/profile_pictures_jpg/Distools.jpg"
     width="50"
     height="50"
 />
 
-[Disutils Team](https://disutils.com/staff) - Lead Developer
+[Disutils Team](https://disutils.com/staff) - Lead App Developer
 
 
 # 📃 Programming History
