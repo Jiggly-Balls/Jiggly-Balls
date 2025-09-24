@@ -14,6 +14,7 @@ Hello, I'm Krish.<br><br>I'm a university student currently pursuing my Bachelor
 
 # Highlight Projects
 <img
+    align="center"
     src="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=200,fit=crop,q=95/YKbE3OGN6jf1noQQ/screen-shot-2025-02-15-at-04.08.01-AoPqpX1RrWs0KnKb.png" 
     width="110"
     height="50"
@@ -22,6 +23,7 @@ Hello, I'm Krish.<br><br>I'm a university student currently pursuing my Bachelor
 [Ceebs](https://www.ceebs.site/credits) - Previous Lead App Developer
 
 <img
+    align="center"
     src="https://images.disutils.com/bot_assets/profile_pictures_jpg/Distools.jpg"
     width="50"
     height="50"
@@ -33,11 +35,12 @@ Hello, I'm Krish.<br><br>I'm a university student currently pursuing my Bachelor
 # 📃 Programming History
 
 <a href="https://wakatime.com">
-    <img width="60%" src="https://wakatime.com/share/@Jiggly_Balls/973a48e9-11f4-4424-90fa-ca0a2d733943.png" />
+    <img align="center" width="60%" src="https://wakatime.com/share/@Jiggly_Balls/973a48e9-11f4-4424-90fa-ca0a2d733943.png" />
 </a>
 
 <a href="https://wakatime.com/@Jiggly_Balls" target="_blank">
     <img
+        align="center"
         width="60%"
         alt="All Time"
         src="https://github-readme-stats.vercel.app/api/wakatime?username=Jiggly_Balls&border_radius=5px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&disable_animations=true&custom_title=Jiggly%20Balls%20History"
@@ -45,7 +48,7 @@ Hello, I'm Krish.<br><br>I'm a university student currently pursuing my Bachelor
 </a>
 
 <a href="https://wakatime.com">
-    <img width="60%" src="https://wakatime.com/share/@Jiggly_Balls/4a21c1ef-bbc1-40e8-b4ea-f4663fc8955c.png" />
+    <img align="center" width="60%" src="https://wakatime.com/share/@Jiggly_Balls/4a21c1ef-bbc1-40e8-b4ea-f4663fc8955c.png" />
 </a>
 
 <br>
