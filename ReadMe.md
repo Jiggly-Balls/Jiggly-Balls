@@ -43,7 +43,6 @@ Hello, I'm Krish.
     width="50"
     height="50"
   />
-  
 <br><br>
 
 [Disutils Team](https://disutils.com/staff) - Lead App Developer
