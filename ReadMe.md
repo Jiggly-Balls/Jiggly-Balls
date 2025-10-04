@@ -6,55 +6,67 @@ Hello, I'm Krish.
 
 ## 🌐 Socials:
 
+<div align="center">
+
+[![Discord Banner](https://discord.c99.nl/widget/theme-3/1022085572719808542.png)](https://discord.gg/28RuT8WsKT)
+
+</div>
+
+<div align="center">
+
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white&sort=semver&style=for-the-badge)](https://discord.gg/https://discord.com/invite/KBjZm2ytU9)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&sort=semver&style=for-the-badge)](https://instagram.com/krishpy_chips)
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white&sort=semver&style=for-the-badge)](https://reddit.com/user/Jiggly-Balls)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white&sort=semver&style=for-the-badge)](https://stackoverflow.com/users/22124711)
 
-### Discord Profile
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/1022085572719808542)](https://discord.com/users/1022085572719808542)
+</div>
 
 # Highlight Projects
 
-<a>
-  <img
-      src="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=200,fit=crop,q=95/YKbE3OGN6jf1noQQ/screen-shot-2025-02-15-at-04.08.01-AoPqpX1RrWs0KnKb.png"
-      align="center"
-      width="110"
-      height="50"
+<div align="center">
+  <img  
+    src="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=200,fit=crop,q=95/YKbE3OGN6jf1noQQ/screen-shot-2025-02-15-at-04.08.01-AoPqpX1RrWs0KnKb.png"
+    align="center"
+    width="110"
+    height="50"
   />
-</a>
 
 [Ceebs](https://www.ceebs.site/credits) - Previous Lead App Developer
 
-<img
-    align="center"
+</div>
+
+<div align="center">
+  <img  
     src="https://images.disutils.com/bot_assets/profile_pictures_jpg/Distools.jpg"
+    align="center"
     width="50"
     height="50"
-/>
+  />
 
 [Disutils Team](https://disutils.com/staff) - Lead App Developer
 
-# 📃 Programming History
+</div>
 
-<a href="https://wakatime.com">
+# 📃 Programming Log
+
+<div align="center">
+  <a href="https://wakatime.com">
     <img align="center" width="60%" src="https://wakatime.com/share/@Jiggly_Balls/973a48e9-11f4-4424-90fa-ca0a2d733943.png" />
-</a>
+  </a>
 
-<a href="https://wakatime.com/@Jiggly_Balls" target="_blank">
+  <a href="https://wakatime.com/@Jiggly_Balls" target="_blank">
     <img
-        align="center"
-        width="60%"
-        alt="All Time"
-        src="https://github-readme-stats.vercel.app/api/wakatime?username=Jiggly_Balls&border_radius=5px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&disable_animations=true&custom_title=Jiggly%20Balls%20History"
+      align="center"
+      width="60%"
+      alt="All Time"
+      src="https://github-readme-stats.vercel.app/api/wakatime?username=Jiggly_Balls&border_radius=5px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&disable_animations=true&custom_title=Jiggly%20Balls%20History"
     />
-</a>
+  </a>
 
-<a href="https://wakatime.com">
+  <a href="https://wakatime.com">
     <img align="center" width="60%" src="https://wakatime.com/share/@Jiggly_Balls/4a21c1ef-bbc1-40e8-b4ea-f4663fc8955c.png" />
-</a>
+  </a>
+</div>
 
 <br>
 
