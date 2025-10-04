@@ -21,7 +21,7 @@ Hello, I'm Krish.
 
 </div>
 
-# Highlight Projects
+## 🌟 Highlight Projects
 
 <div align="center">
   <img  
@@ -30,6 +30,7 @@ Hello, I'm Krish.
     width="110"
     height="50"
   />
+  <br>
 
 [Ceebs](https://www.ceebs.site/credits) - Previous Lead App Developer
 
@@ -42,12 +43,13 @@ Hello, I'm Krish.
     width="50"
     height="50"
   />
+  <br>
 
 [Disutils Team](https://disutils.com/staff) - Lead App Developer
 
 </div>
 
-# 📃 Programming Log
+## 📃 Programming Log
 
 <div align="center">
   <a href="https://wakatime.com">
@@ -70,7 +72,7 @@ Hello, I'm Krish.
 
 <br>
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -78,7 +80,7 @@ Hello, I'm Krish.
   </a>
 </p>
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
 <div align="center">
   
@@ -108,7 +110,7 @@ Hello, I'm Krish.
   </a>
 </div>
 
-### 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repo
 
 <div align="center">
   <a href="https://github.com/Jiggly-Balls">
