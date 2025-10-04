@@ -60,20 +60,11 @@ Hello, I'm Krish.
 
 # 💻 Tech Stack:
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?logo=c&logoColor=white&style=for-the-badge)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?logo=c%2B%2B&logoColor=white&sort=semver&style=for-the-badge)
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?logo=lua&logoColor=white&sort=semver&style=for-the-badge)
-![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54&sort=semver&style=for-the-badge)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white&sort=semver&style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white&sort=semver&style=for-the-badge)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?logo=postgresql&logoColor=white&sort=semver&style=for-the-badge)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?logo=mysql&logoColor=white&sort=semver&style=for-the-badge)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?logo=sqlite&logoColor=white&sort=semver&style=for-the-badge)
-![Steam](https://img.shields.io/badge/steam-%23000000.svg?logo=steam&logoColor=white&sort=semver&style=for-the-badge)
-![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?logo=godot-engine&sort=semver&style=for-the-badge)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white&sort=semver&style=for-the-badge)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=TensorFlow&logoColor=white&sort=semver&style=for-the-badge)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?logo=numpy&logoColor=white&sort=semver&style=for-the-badge)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css,nodejs,react,mongodb,postgres,docker,git,linux,windows&perline=7" alt="Tech Stack" />
+  </a>
+</p>
 
 # 📊 GitHub Stats:
 
