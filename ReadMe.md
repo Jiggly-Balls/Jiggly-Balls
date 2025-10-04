@@ -1,24 +1,30 @@
 # 💫 About Me:
-Hello, I'm Krish.<br><br>I'm a university student currently pursuing my Bachelor of Technology in Computer Science Engineering<br>
 
+Hello, I'm Krish.
+<br><br>I'm a university student currently pursuing my Bachelor of Technology in Computer Science Engineering.
+<br><br>I love making API wrappers and open source libraries and teach others programming.
 
 ## 🌐 Socials:
+
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white&sort=semver&style=for-the-badge)](https://discord.gg/https://discord.com/invite/KBjZm2ytU9)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&sort=semver&style=for-the-badge)](https://instagram.com/krishpy_chips)
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white&sort=semver&style=for-the-badge)](https://reddit.com/user/Jiggly-Balls)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white&sort=semver&style=for-the-badge)](https://stackoverflow.com/users/22124711)
 
 ### Discord Profile
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/1022085572719808542)](https://discord.com/users/1022085572719808542)
 
-
 # Highlight Projects
-<img
-    align="center"
-    src="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=200,fit=crop,q=95/YKbE3OGN6jf1noQQ/screen-shot-2025-02-15-at-04.08.01-AoPqpX1RrWs0KnKb.png" 
-    width="110"
-    height="50"
-/>
+
+<a>
+  <img
+      src="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=200,fit=crop,q=95/YKbE3OGN6jf1noQQ/screen-shot-2025-02-15-at-04.08.01-AoPqpX1RrWs0KnKb.png"
+      align="center"
+      width="110"
+      height="50"
+  />
+</a>
 
 [Ceebs](https://www.ceebs.site/credits) - Previous Lead App Developer
 
@@ -30,7 +36,6 @@ Hello, I'm Krish.<br><br>I'm a university student currently pursuing my Bachelor
 />
 
 [Disutils Team](https://disutils.com/staff) - Lead App Developer
-
 
 # 📃 Programming History
 
@@ -54,6 +59,7 @@ Hello, I'm Krish.<br><br>I'm a university student currently pursuing my Bachelor
 <br>
 
 # 💻 Tech Stack:
+
 ![C](https://img.shields.io/badge/c-%2300599C.svg?logo=c&logoColor=white&style=for-the-badge)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?logo=c%2B%2B&logoColor=white&sort=semver&style=for-the-badge)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?logo=lua&logoColor=white&sort=semver&style=for-the-badge)
@@ -70,21 +76,25 @@ Hello, I'm Krish.<br><br>I'm a university student currently pursuing my Bachelor
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?logo=numpy&logoColor=white&sort=semver&style=for-the-badge)
 
 # 📊 GitHub Stats:
+
 ![](https://github-readme-stats.vercel.app/api?username=Jiggly-Balls&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Jiggly-Balls&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiggly-Balls&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=Jiggly-Balls&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
+
 ![](https://github-contributor-stats.vercel.app/api?username=Jiggly-Balls&limit=5&theme=monokai&combine_all_yearly_contributions=true)
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=Jiggly-Balls&icon=9&color=10)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://studio.buymeacoffee.com/dashboard) 
+## 💰 You can help me by Donating
 
-  
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://studio.buymeacoffee.com/dashboard)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
