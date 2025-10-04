@@ -68,24 +68,40 @@ Hello, I'm Krish.
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=Jiggly-Balls&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Jiggly-Balls&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiggly-Balls&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+  
+  <!-- GitHub Streak -->
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Jiggly-Balls&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+  
+  <table>
+    <tr>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jiggly-Balls&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+      </td>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jiggly-Balls&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+      </td>
+    </tr>
+  </table>
+  
+  <!-- GitHub Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jiggly-Balls&bg_color=1a1b27&color=58a6ff&line=5865F2&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Activity Graph">
+</div>
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=Jiggly-Balls&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
+<div align="center">
+  <a href="https://github.com/Jiggly-Balls">
+    <img src="https://github-profile-trophy.vercel.app/?username=Jiggly-Balls&theme=discord&column=3&margin-w=15&margin-h=15" alt="Krish's Trophies">
+  </a>
+</div>
 
 ### 🔝 Top Contributed Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=Jiggly-Balls&limit=5&theme=monokai&combine_all_yearly_contributions=true)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=Jiggly-Balls&icon=9&color=10)](https://visitcount.itsvg.in)
-
-## 💰 You can help me by Donating
-
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://studio.buymeacoffee.com/dashboard)
+<div align="center">
+  <a href="https://github.com/Jiggly-Balls">
+    <img src="https://github-contributor-stats.vercel.app/api?username=Jiggly-Balls&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Krish's Contribution Table">
+  </a>
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
