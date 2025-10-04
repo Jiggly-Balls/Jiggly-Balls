@@ -61,7 +61,7 @@ Hello, I'm Krish.
       align="center"
       width="60%"
       alt="All Time"
-      src="https://github-readme-stats.vercel.app/api/wakatime?username=Jiggly_Balls&border_radius=5px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&disable_animations=true&custom_title=Jiggly%20Balls%20History"
+      src="https://github-readme-stats.vercel.app/api/wakatime?username=Jiggly_Balls&border_radius=5px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&disable_animations=true&custom_title=Krish's%20History"
     />
   </a>
 
