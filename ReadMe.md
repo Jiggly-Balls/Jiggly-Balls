@@ -2,7 +2,7 @@
 
 Hello, I'm Krish.
 <br><br>I'm a university student currently pursuing my Bachelor of Technology in Computer Science Engineering.
-<br><br>I love making API wrappers and open source libraries and teach others programming.
+<br><br>I love making API wrappers, open source libraries and teach others programming.
 
 ## 🌐 Socials:
 
