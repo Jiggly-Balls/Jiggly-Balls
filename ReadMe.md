@@ -49,29 +49,6 @@ Hello, I'm Krish.
 
 </div>
 
-## 📃 Programming Log
-
-<div align="center">
-  <a href="https://wakatime.com">
-    <img align="center" width="60%" src="https://wakatime.com/share/@Jiggly_Balls/973a48e9-11f4-4424-90fa-ca0a2d733943.png" />
-  </a>
-
-  <a href="https://wakatime.com/@Jiggly_Balls" target="_blank">
-    <img
-      align="center"
-      width="60%"
-      alt="All Time"
-      src="https://github-readme-stats.vercel.app/api/wakatime?username=Jiggly_Balls&border_radius=5px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&disable_animations=true&custom_title=Krish's%20History"
-    />
-  </a>
-
-  <a href="https://wakatime.com">
-    <img align="center" width="60%" src="https://wakatime.com/share/@Jiggly_Balls/4a21c1ef-bbc1-40e8-b4ea-f4663fc8955c.png" />
-  </a>
-</div>
-
-<br>
-
 ## 💻 Tech Stack:
 
 <p align="center">
