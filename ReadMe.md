@@ -62,15 +62,15 @@ Hello, I'm Krish.
 <div align="center">
   
   <!-- GitHub Streak -->
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Jiggly-Balls&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats-vijaypur.vercel.app?user=Jiggly-Balls&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
   
   <table>
     <tr>
       <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jiggly-Balls&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+        <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=Jiggly-Balls&show_icons=true&theme=tokyonight"/>
       </td>
       <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jiggly-Balls&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+        <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Jiggly-Balls&layout=compact&theme=tokyonight"/>
       </td>
     </tr>
   </table>
@@ -83,7 +83,7 @@ Hello, I'm Krish.
 
 <div align="center">
   <a href="https://github.com/Jiggly-Balls">
-    <img src="https://github-profile-trophy.vercel.app/?username=Jiggly-Balls&theme=discord&column=3&margin-w=15&margin-h=15" alt="Krish's Trophies">
+    <img src="https://github-profile-trophy-fork-two.vercel.app/?username=Jiggly-Balls&theme=discord&column=3&margin-w=15&margin-h=15" alt="Krish's Trophies">
   </a>
 </div>
 
