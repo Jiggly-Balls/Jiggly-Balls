@@ -7,9 +7,9 @@ Hello, I'm Krish.
 ## 🌐 Socials:
 
 <div align="center">
-
-[![Discord Banner](https://discord.c99.nl/widget/theme-3/1022085572719808542.png)](https://discord.gg/28RuT8WsKT)
-
+  <a href="https://discord.com/users/1022085572719808542" target="_blank">
+    <img width="35%" src="https://lanyard.cnrad.dev/api/1022085572719808542?bg=1f1f1f&borderRadius=5px&idleMessage=Probably%20breaking%20or%20fixing%20something..." alt="Discord Status">
+  </a>
 </div>
 
 <div align="center">
