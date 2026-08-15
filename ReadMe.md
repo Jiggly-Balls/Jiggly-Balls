@@ -1,9 +1,9 @@
 <div align="center">
-  <img width="80%" src="assets/banner-01.gif" alt="Banner 01" style="image-rendering: pixelated;">
+  <img width="100%" src="assets/banner-01.gif" alt="Banner 01">
 </div>
 
 <div align="center">
-  <img width="80%" src="assets/banner-02.png" alt="Banner 02" style="image-rendering: pixelated;">
+  <img width="100%" src="assets/banner-02.png" alt="Banner 02">
 </div>
 
 
