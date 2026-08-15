@@ -6,6 +6,9 @@
   <img width="100%" src="assets/banner-02.png" alt="Banner 02">
 </div>
 
+<div align="center">
+  <img width="100%" src="assets/banner-03.png" alt="Banner 02">
+</div>
 
 <div align="center">
 
