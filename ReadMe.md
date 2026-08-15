@@ -1,16 +1,11 @@
-# 💫 About Me:
-
-Hello, I'm Krish.
-<br><br>I'm a university student currently pursuing my Bachelor of Technology in Computer Science Engineering.
-<br><br>I love making API wrappers, open source libraries and teach others programming.
-
-## 🌐 Socials:
+<div align="center">
+  <img width="80%" src="assets/banner-01.gif" alt="Banner 01" style="image-rendering: pixelated;">
+</div>
 
 <div align="center">
-  <a href="https://discord.com/users/1022085572719808542" target="_blank">
-    <img width="35%" src="https://lanyard.cnrad.dev/api/1022085572719808542?bg=1f1f1f&borderRadius=5px&idleMessage=Probably%20breaking%20or%20fixing%20something..." alt="Discord Status">
-  </a>
+  <img width="80%" src="assets/banner-02.png" alt="Banner 02" style="image-rendering: pixelated;">
 </div>
+
 
 <div align="center">
 
@@ -21,7 +16,7 @@ Hello, I'm Krish.
 
 </div>
 
-## 🌟 Highlight Projects
+## Highlight Projects
 
 <div align="center">
   <img  
@@ -57,13 +52,11 @@ Hello, I'm Krish.
   </a>
 </p>
 
-## 📊 GitHub Stats:
+## GitHub Stats:
 
 <div align="center">
   
   <!-- GitHub Streak -->
-  [![GitHub Streak](https://github-readme-streak-stats-vijaypur.vercel.app?user=Jiggly-Balls&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-  
   <table>
     <tr>
       <td>
@@ -78,21 +71,3 @@ Hello, I'm Krish.
   <!-- GitHub Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jiggly-Balls&bg_color=1a1b27&color=58a6ff&line=5865F2&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Activity Graph">
 </div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <a href="https://github.com/Jiggly-Balls">
-    <img src="https://github-profile-trophy-fork-two.vercel.app/?username=Jiggly-Balls&theme=discord&column=3&margin-w=15&margin-h=15" alt="Krish's Trophies">
-  </a>
-</div>
-
-## 🔝 Top Contributed Repo
-
-<div align="center">
-  <a href="https://github.com/Jiggly-Balls">
-    <img src="https://github-contributor-stats.vercel.app/api?username=Jiggly-Balls&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Krish's Contribution Table">
-  </a>
-</div>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
