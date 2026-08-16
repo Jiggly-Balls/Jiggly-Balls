@@ -19,42 +19,6 @@
 
 </div>
 
-## Highlight Projects
-
-<div align="center">
-  <img  
-    src="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=200,fit=crop,q=95/YKbE3OGN6jf1noQQ/screen-shot-2025-02-15-at-04.08.01-AoPqpX1RrWs0KnKb.png"
-    align="center"
-    width="110"
-    height="50"
-  />
-<br><br>
-
-[Ceebs](https://www.ceebs.site/credits) - Previous Lead App Developer
-
-</div>
-
-<div align="center">
-  <img  
-    src="https://images.disutils.com/bot_assets/profile_pictures_jpg/Distools.jpg"
-    align="center"
-    width="50"
-    height="50"
-  />
-<br><br>
-
-[Disutils Team](https://disutils.com/staff) - Lead App Developer
-
-</div>
-
-## 💻 Tech Stack:
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css,nodejs,react,mongodb,postgres,docker,git,linux,windows&perline=7" alt="Tech Stack" />
-  </a>
-</p>
-
 ## GitHub Stats:
 
 <div align="center">
