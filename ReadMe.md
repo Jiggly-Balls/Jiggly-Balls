@@ -35,8 +35,6 @@
   </tr>
 </table>
 
-## GitHub Stats:
-
 <div align="center">
   
   <!-- GitHub Streak -->
